@@ -1,6 +1,6 @@
 
 # Stock Data Visualization Project
-
+![Q55](https://github.com/user-attachments/assets/f0d22dcb-9e51-4354-b818-bd0bfdb7c0ae)
 ## Overview
 
 This project aims to extract and visualize financial data for Tesla (TSLA) and GameStop (GME) using two primary techniques: **yfinance** for stock data retrieval and web scraping for extracting revenue information from relevant financial websites. The goal is to provide a comprehensive analysis of the stock performance and revenue trends of these two companies.
